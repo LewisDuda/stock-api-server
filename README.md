@@ -57,6 +57,7 @@ $ python main.py
 ## Related project
 
 [Frontend Application](https://github.com/LewisDuda/stock)
+
 [Backend Application](https://github.com/LewisDuda/stock-backend)
 
 **Clone Project**
